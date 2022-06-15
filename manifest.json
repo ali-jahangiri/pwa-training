@@ -1,0 +1,11 @@
+{
+    "name" : "Development For Future",
+    "short_name" : "DFF",
+    "start_url" : "/index.html",
+    "display" : "standalone",
+    "scope" : ".",
+    "background_color" : "#e2e2e2",
+    "theme_color" : "#e8e7",
+    "dir" : "ltr",
+    "lang" : "en-US"
+}
